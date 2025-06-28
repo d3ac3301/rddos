@@ -25,8 +25,8 @@
 ```
 apt-get update -y
 apt-get install git
-git clone https://github.com/Red-company/RDDoS_Tool.git
-cd RDDoS_Tool
+git clone https://github.com/d3ac3301/rddos.git
+cd RDDoS_Tool 
 bash setup.sh
 python3 RDDoS_Tool.py
 ```
